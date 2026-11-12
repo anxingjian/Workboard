@@ -1,0 +1,15 @@
+# Allow only this documentation package. Never commit live board data.
+/*
+!/.gitignore
+!/README.md
+!/workboard-maintenance/
+/workboard-maintenance/*
+!/workboard-maintenance/SKILL.md
+!/workboard-maintenance/agents/
+!/workboard-maintenance/references/
+/workboard-maintenance/agents/*
+!/workboard-maintenance/agents/openai.yaml
+/workboard-maintenance/references/*
+!/workboard-maintenance/references/progress-and-relevance.md
+!/workboard-maintenance/references/presentation-contract.md
+!/workboard-maintenance/references/safe-changes.md
