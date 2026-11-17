@@ -1,5 +1,10 @@
 # Progress and relevance
 
+For task selection and preparation, also use [Work rounds and handoffs](work-handoffs.md).
+It supersedes message-to-checkbox extraction: current actions need an evidenced
+owner and bounded finish, and project Next steps shares the same task record.
+Preparations and source-read steps are not product Progress.
+
 Read before curating Product memory, Ongoing, To-dos or Daily updates, including
 source-driven refreshes. These are editorial rules, not authorization to read
 new sources.
@@ -52,6 +57,9 @@ follow this contract. Do not restore raw-chat fallback renderers.
 - Local maintenance instructions, a user correction transcript, or an audit log.
 - A duplicate of the concise summary followed by the same story in source prose.
 - Speculative tasks created from missing evidence or a neutral behavior fact.
+- Assistant chapter outlines, generated decisions or preparation logs masquerading
+  as user work. Direct user commitments in a chat are valid evidence, not permission
+  to replay the chat or convert all unfinished discussion into To-dos.
 
 Retain those original records internally where appropriate. This is projection
 curation, not deletion of source data. Important uncertainty can qualify the

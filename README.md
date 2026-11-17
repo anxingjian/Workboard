@@ -7,7 +7,19 @@ Reusable guidance for maintaining an existing offline Workboard — not a comple
 
 - Progress highlights instead of raw conversations; current project-specific dependencies.
 - Consistent Product memory and Ongoing views, status vocabulary and presentation rules.
+- Evidence-backed work rounds, useful AI preparation, and shared To-do / Next steps records.
 - Focused regression cases, state-preserving saves and safe sharing boundaries.
+
+## Ruleset update — 2026-11-17
+
+- Current actions stay separate from FYI, preparation logs and historical discussion;
+  project archive does not silently complete a newly confirmed action.
+- Full reading-view language coverage preserves original evidence and editor values.
+- Current status controls, descending Cycle filters, compact Product memory spacing,
+  and navigation / Product radar presentation are documented.
+
+These are maintenance instructions for an existing board, not newly bundled application
+code, data, assets or connectors. Later explicit user choices take precedence.
 
 ## Use
 

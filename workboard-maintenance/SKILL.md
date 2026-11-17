@@ -19,6 +19,8 @@ contract; do not impose its UI conventions on unrelated products.
    does not authorize the others.
 3. Before any content curation or source refresh, read
    [Progress and relevance](references/progress-and-relevance.md).
+   When deriving tasks or preparing their next handoff, read
+   [Work rounds and handoffs](references/work-handoffs.md).
    Before UI/status/resource changes, also read
    [Presentation contract](references/presentation-contract.md).
    Before saving or sharing anything, read
@@ -44,6 +46,16 @@ contract; do not impose its UI conventions on unrelated products.
 - **Use one current interpretation across views.** Product memory and Ongoing
   share the same highlights and status resolver. A full history versus the latest
   three highlights is a display-depth difference, not a factual contradiction.
+- **One work record, several entrances.** To-do and project Next steps share
+  stable action IDs and personal state. Small requests and complex work rounds
+  qualify when ownership, current action and a bounded finish are evidenced.
+  Preparation neither creates duplicate tasks nor hides the user's turn. FYI is
+  not an assignment. Preserve the approved handoff structure: current action,
+  what happened, prepared output and user judgment. Curate its contents rather
+  than deleting the format or reverting concrete actions to broad old titles.
+  Actual preparation can be summarized and linked; chapter outlines/discussion
+  logs are not assignments. Direct user commitments from Codex may be evidence;
+  assistant suggestions are not commitments.
 
 ## Save gate
 
