@@ -1,4 +1,4 @@
 interface:
-  display_name: "Workboard Maintenance"
-  short_description: "Curate Workboard progress and preserve confirmed rules"
+  display_name: "Worklens"
+  short_description: "Turn scattered updates into clear project context"
   default_prompt: "Use $workboard-maintenance to update my Workboard without replaying old conversations or reviving resolved work."

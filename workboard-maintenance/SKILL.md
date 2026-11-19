@@ -1,9 +1,13 @@
 ---
 name: workboard-maintenance
-description: Maintain an existing offline Workboard, especially Product memory and Ongoing Progress, task relevance, status consistency, and confirmed presentation rules. Use when curating or refreshing Workboard content, fixing repeated or unrelated progress, or recording Workboard corrections. Not a general project-management skill, source connector, briefing sender, or deployment tool.
+description: Worklens maintains an existing offline Workboard, especially Product memory and Ongoing Progress, task relevance, status consistency, and confirmed presentation rules. Use when curating or refreshing Workboard content, fixing repeated or unrelated progress, or recording Workboard corrections. Not a general project-management skill, source connector, briefing sender, or deployment tool.
 ---
 
-# Workboard Maintenance
+# Worklens
+
+**Turn scattered updates into clear project context.**
+
+An agent skill for evidence-backed progress, decisions, and next actions.
 
 Maintain a concise, evidence-backed view of current work without turning the
 source archive into the interface. This skill records the existing Workboard

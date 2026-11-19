@@ -1,4 +1,8 @@
-# Workboard Maintenance Skill
+# Worklens
+
+**Turn scattered updates into clear project context.**
+
+*An agent skill for evidence-backed progress, decisions, and next actions.*
 
 Reusable guidance for maintaining an existing offline Workboard — not a complete dashboard application.
 
@@ -64,13 +68,18 @@ represent a new source refresh or a change to the maintained ruleset.
 
 ## Use
 
+Worklens keeps the existing `workboard-maintenance` repository address,
+directory and technical skill ID for compatibility with shared links and
+existing installations. Its display name is **Worklens**; explicit invocation
+remains `$workboard-maintenance`.
+
 Download or clone this repository. Keep the **entire `workboard-maintenance` directory** together, including `references` and `agents`; do not copy only `SKILL.md`.
 
 Install that directory using your coding assistant’s supported skill-installation method, or ask it to read [`workboard-maintenance/SKILL.md`](workboard-maintenance/SKILL.md) and its relevant references when maintaining your existing board.
 
 Example request:
 
-> Use workboard-maintenance to review my Product memory Progress. Keep consequential highlights, reconcile completed or superseded follow-ups, and preserve my personal state and original evidence.
+> Use Worklens ($workboard-maintenance) to review my Product memory Progress. Keep consequential highlights, reconcile completed or superseded follow-ups, and preserve my personal state and original evidence.
 
 ## Not included
 
