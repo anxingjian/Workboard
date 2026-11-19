@@ -68,10 +68,10 @@ represent a new source refresh or a change to the maintained ruleset.
 
 ## Use
 
-Worklens keeps the existing `workboard-maintenance` repository address,
-directory and technical skill ID for compatibility with shared links and
-existing installations. Its display name is **Worklens**; explicit invocation
-remains `$workboard-maintenance`.
+This repository is named **Workboard**. The included skill is **Worklens**.
+The skill directory and technical ID remain `workboard-maintenance` for
+compatibility with existing installations; explicit invocation remains
+`$workboard-maintenance`.
 
 Download or clone this repository. Keep the **entire `workboard-maintenance` directory** together, including `references` and `agents`; do not copy only `SKILL.md`.
 
